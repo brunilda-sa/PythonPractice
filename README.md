@@ -1,6 +1,4 @@
-# Multi-label classification for Satellite Images
-
-## Introduction
+# Practice Description 
 Here you are going find all the daily Python practice
 
 ## Practice title: List_Less_Than_Ten
