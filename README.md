@@ -1,5 +1,5 @@
-# Practice Description 
-Here you are going find all the daily Python practice. 
+# Introduction
+This page presents my daily Python exercises
 
 # Requirements
 -  Eclipse IDE (integrated development environment)
